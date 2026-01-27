@@ -57,6 +57,3 @@ A real‑time collaborative coding environment inspired by Project Idx, enabling
 
 ---
 
-## 🔗 Links
-
-* **GitHub Repo**: [30Abhi/CodeSandbox](https://github.com/30Abhi/CodeSandbox)
