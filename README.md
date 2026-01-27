@@ -21,7 +21,7 @@ A real‑time collaborative coding environment inspired by Project Idx, enabling
 * **Frontend**: React, Monaco Editor, React Query (Queries & Mutations)
 * **Database**: MongoDB
 * **Containerization**: Docker
-* **CLI Tools**: Exterm for terminal emulation
+* **CLI Tools**: Xterm for terminal emulation
 
 ---
 
