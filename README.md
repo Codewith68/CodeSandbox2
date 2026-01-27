@@ -17,7 +17,7 @@ A real‑time collaborative coding environment inspired by Project Idx, enabling
 
 ## 📦 Tech Stack
 
-* **Backend**: Node.js, Express.js, WebSockets
+* **Backend**: Node.js, Express.js, WebSockets,socket.io
 * **Frontend**: React, Monaco Editor, React Query (Queries & Mutations)
 * **Database**: MongoDB
 * **Containerization**: Docker
