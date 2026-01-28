@@ -1,2 +1,6 @@
 Projects/
 node_modules/
+.env
+.env.example
+.env.test
+.env.production
