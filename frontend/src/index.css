@@ -1,0 +1,8 @@
+/* HARD RESET FOR XTERM */
+.xterm,
+.xterm * {
+  font-family: "Fira Code", monospace !important;
+  letter-spacing: 0 !important;
+  line-height: 1 !important;
+  word-spacing: 0 !important;
+}

@@ -1,0 +1,36 @@
+.playground-root {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: #1a1b23;
+  overflow: hidden;
+}
+
+.sidebar {
+  width: 250px;
+  max-width: 25%;
+  background-color: #20212c;
+  border-right: 1px solid #2e2f3a;
+  overflow: auto;
+}
+
+.main-area {
+  flex: 1;
+  height: 100%;
+}
+
+.editor-container {
+  height: 100%;
+  background-color: #1e1f29;
+}
+
+.terminal-container {
+  height: 100%;
+  background-color: #000;
+}
+
+.browser-area {
+  height: 100%;
+  background-color: #111;
+  border-left: 1px solid #2e2f3a;
+}
